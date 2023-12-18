@@ -2,12 +2,15 @@
 
 A simple interval simulating traffic lights, with set times for each colour, built in Next.js + TypeScript
 
-## Demo
+## Demo #1
 
 <!-- ![demo](/demo.gif) -->
 ![](./demo.gif)
 
 Simulation when no initial state is passed into the component
+
+
+## Demo #2
 
 ![](./separateDemo.gif)
 
